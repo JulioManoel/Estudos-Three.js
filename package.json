@@ -1,0 +1,25 @@
+{
+  "name": "estudos-three",
+  "version": "1.0.0",
+  "description": "Estudos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioManoel/Estudos-Three.js.git"
+  },
+  "keywords": [
+    "three.js"
+  ],
+  "author": "Julio Cesar Bonow Manoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioManoel/Estudos-Three.js/issues"
+  },
+  "homepage": "https://github.com/JulioManoel/Estudos-Three.js#readme",
+  "dependencies": {
+    "three": "^0.144.0"
+  }
+}
